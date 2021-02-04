@@ -1,0 +1,29 @@
+{
+	"category": "Kernel",
+	"name": "KernelPeriod",
+	"inputs": 0,
+	"outputs": 0,
+	"parameters": [
+	
+	
+	
+		{
+			"name": "Period",
+			"type": "raw",
+			"default": "0.001",
+			"options": [],
+			"value": "0.001"
+		
+		}
+	],
+	"labels": {
+		"input": [],
+		"output": []
+	},
+	"schematic_pins": {
+		"inputs": [],
+		"outputs": []
+	},
+	"repository": "https://github.com/nblocksStudioNodes/nblocks_ticker",
+	"revision": ""
+}
