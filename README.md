@@ -56,3 +56,14 @@ width = 4500
 The first parameter is the source,  can be either `KERNEL_TICK_TIMER` or `KERNEL_TICK_EXT`.
 
 If `KERNEL_TICK_EXT` is used, then the second argument is the pin name for the external clock to be used as tick
+
+
+
+ ## Contributors
+|Task              |Contributor       |Date
+|------------------|------------------|------------------|
+| Requirements:  |N. Chalikias|03/01/2021|
+| Implementation, update of the Kernel code: |F. Cosentino|03/02/2021|
+| Testing-program: |F. Cosentino|03/02/2021|
+| Testing-program port to mbed-studio: |N. Chalikias|03/02/2021|
+| Readme.md and images creation:  |N. Chalikias|03/02/2021|
